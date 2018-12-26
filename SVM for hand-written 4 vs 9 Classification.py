@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Nov 24 17:40:06 2017
-@author: Luky
-"""
-
 import numpy as np 
 from sklearn.datasets import fetch_mldata
 import matplotlib.pyplot as plt
